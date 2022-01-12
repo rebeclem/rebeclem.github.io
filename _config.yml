@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @BeccasBugs
+  username               : #@BeccasBugs
 facebook:
   username               :
   app_id                 :
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_np5OXQAAAAJ&hl=en&oi=sra"
   email            : "rebeccaclement@gwu.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Rebecca_Clement3"
+  researchgate     : "https://www.researchgate.net/profile/Rebecca_Clement3"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@BeccasBugs"
+  twitter          : #"@BeccasBugs"
   vine             :
   weibo            :
   xing             :
