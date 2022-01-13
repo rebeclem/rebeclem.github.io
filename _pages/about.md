@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![termitepic](rebeclem/images/2018-12-14 08.45.07.jpg)
+![termitepic](/images/2018-12-14 08.45.07.jpg)
 
 You know that feeling when you open a brand new box of chocolates and you have no idea what’s inside of them, but you know it’s going to be good? That’s how I feel when I’m opening up pieces of dead wood trying to find termites. I love imagining the hidden worlds of termites and insects that live in a place most people don’t think too much about--decaying wood and plant material. My current project involves understanding how biogeographical history and environmental conditions/habitat types shape Australian termite distributions, their gut symbionts and the mounds they build.
 
