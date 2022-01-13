@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rebecca Clement"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Rebecca Clement"
-description              : &description "PhD Candidate, George Washington University"
-url                      : https://rebeclem.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rebeclem/rebeclem.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @BeccasBugs
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Rebecca Clement"
-  avatar           : "images/becca9crop_small.jpeg"
-  bio              : "PhD Candidate, George Washington University"
-  location         : "Washington, DC"
-  employer         : "Computational Biology Institute"
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=_np5OXQAAAAJ&hl=en&oi=sra"
-  email            : "rebeccaclement@gwu.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Rebecca_Clement3"
+  avatar           : "profile.png"
+  bio              : "PhD Candidate"
+  location         : "George Washington University"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rebeclem"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/rebecca-clement-2b7ba5b2/
-  orcid            : "https://orcid.org/0000-0002-5634-9207"
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@BeccasBugs"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
