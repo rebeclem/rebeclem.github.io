@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rebecca Clement is a PhD candidate in Biological sciences and in the Computational Biology Institute at George Washington University interested in the evolution and ecology of insects, especially Australian termites."
+title: "Rebecca Clement is a PhD candidate in Biological sciences and in the Computational Biology Institute at George Washington University interested in the biodiversity, evolution and ecology of insects, especially Australian termites."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
