@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * PhD Biological Sciences, Computational Biology Institute, George Washington University, Washington DC  
-  Expected graduation: May2022,
+  Expected graduation: May 2022,
   Advisors: Dr. Keith Crandall, Dr. Amy Zanne
 * B.S. Biology, Magna Cum Laude, Brigham Young University, Provo, UT  
   2017, Major Professors: Dr. Seth Bybee, Dr. C. Riley Nelson
@@ -258,10 +258,10 @@ Training and Skills
 *  Jan 2018 Illumina Nextera XT and MiSeq training
 *  Nov 2017 GWU High Performance Computing Workshop
 
-**Molecular Laboratory and instruments**
+**Molecular Laboratory and instruments**  
 DNA extraction of insect material, human fecal material, insect fecal material using Qiagen, Zymo kits, PCR, Agarose electrophoresis, Primer design, Sanger Sequencing, Library Preparation (Nextera XT, Truseq mRNA, Truseq small RNA), library normalization, Agilent 2100 Bioanalyzer, Invitrogen Qubit, Illumina NextSeq 500 Sequencing, MiSeq Sequencing, ThermoCyclers
 
-**Computational Software**
+**Computational Software**  
 * Basic programming: Bash, R, Python, JavaScript, HTML, C++, Markdown, TeX
 * Phylogenetic analysis: Geneious, PartitionFinder, IQtree, BEAST2, Mesquite, TNT, PAUP, Astral, RevBayes, ETE, MAFFT, ModelTest, FigTree, CIPRES
 * RNAseq analysis: bbduk, STAR, RSEM
@@ -269,5 +269,5 @@ DNA extraction of insect material, human fecal material, insect fecal material u
 * Online databases: NCBI, Ensembl, GBIF, High performance computing: ColonialOne, GWU’s High Performance Computing cluster, Quartzy (lab management)
 * Proficient on Mac and PC with Microsoft Excel, Word, PowerPoint, and internet Statistical analysis and figure design in R, ggplot2 Figure Design using Adobe Illustrator
 
-**Languates**
+**Languages**  
 Dutch (speaking, reading, writing), Portuguese (speaking), and Spanish (reading, writing)
