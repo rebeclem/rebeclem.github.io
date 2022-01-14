@@ -88,11 +88,13 @@ Print
 * Clement, R.A., C.R. Nelson. (2017). Flies as bioindicators of grazing pressures in Mongolia. BYU Journal of Undergraduate Research.
 * Clement, R.A., C.R. Nelson, M. Otis. (2012). Great Basin National Park Diptera Bioblitz, 19-21 June 2012, Fly Times Issue 49.
 * Clement, R.A., C.R. Nelson, M. Otis. (2012). Diptera Bioblitz Preliminary Results. The Midden, The Resource Management Newsletter of Great Basin National Park.  
+
 Audio
 * Clement, R.A., Contributor. “18 - Becca Clement and Keylie Gibson – What is computational biology?” Aug 12, 2019. Science in Progress  
+
 Art Exhibits from Artist-in-residence program
-* Donna Davis, ’DE-CAY-dence’, August-October 2021, University of the Sunshine Coast art gallery
-* Donna Davis, ‘When A Tree Falls’, May-June 2021, Exhibition at Northsite Contemporary Art Space
+* Donna Davis, [’DE-CAY-dence’,](https://vimeo.com/538499033l) August-October 2021, University of the Sunshine Coast art gallery
+* Donna Davis, [‘When A Tree Falls’,](https://vimeo.com/554150482) May-June 2021, Exhibition at Northsite Contemporary Art Space
 
 Presentations
 ======
