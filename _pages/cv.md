@@ -11,16 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD Biological Sciences, Computational Biology Institute, George Washington University, Washington DC  
+  Expected graduation: May2022,
+  Advisors: Dr. Keith Crandall, Dr. Amy Zanne
+* B.S. Biology, Magna Cum Laude, Brigham Young University, Provo, UT  
+  2017, Major Professors: Dr. Seth Bybee, Dr. C. Riley Nelson
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2017-present--George Washington University Computational Biology Institute
+Research Assistant, Dr. Keith Crandall  
+  * Directed and performed next generation sequencing molecular lab work for GW genomics core as lab manager and assistant
+  * Created and maintained high-performance computing tutorial website for incoming bioinformatics graduate students and undergraduates using GitHub pages
+  * Analyzed NGS human microbiome data for low-calorie sweetener study using whole metagenomic shotgun sequencing
+  * Supervised and directed graduate and undergraduate students in phylogenetic analyses for coronavirus and cray sh projects
 
 * Fall 2015: Research Assistant
   * Github University
