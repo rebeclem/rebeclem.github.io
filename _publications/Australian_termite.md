@@ -1,7 +1,7 @@
 ---
 title: "Assessing the Australian termite diversity anomaly: how habitat and rainfall affect termite assemblages."
 collection: publications
-permalink: /publication/2018-Flies_Mongolia
+permalink: /publication/Australian_termite
 excerpt: 'Termites are important ecosystem engineers in tropical habitats, with different feeding groups able to decompose wood, grass, litter, and soil organic matter. In most tropical regions, termite abundance and species diversity are assumed to increase with rainfall, with highest levels found in rainforests. However, in the Australian tropics, this pattern is thought to be reversed, with lower species richness and termite abundance found in rainforest than drier habitats. The potential mechanisms underlying this pattern remain unclear. We compared termite assemblages (abundance, activity, diversity, and feeding group composition) across five sites along a precipitation gradient in tropical North Queensland.'
 date: 2021-04-20
 venue: 'Frontiers in Ecology and Evolution'
