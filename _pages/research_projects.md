@@ -1,7 +1,7 @@
 ---
-title: "Archive Layout with Content"
+title: "Research"
 layout: archive
-permalink: /archive-layout-with-content/
+permalink: /research_projects/
 ---
 
 A variety of common markup showing how the theme styles them.
