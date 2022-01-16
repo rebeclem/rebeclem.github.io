@@ -27,7 +27,3 @@ One reason that termites are able to feed on so many substrates is because of th
 	The computational skills I used for microbiome analysis come from my experiences in GW’s Computational Biology Institute under the direction of Keith Crandall (GWU). In my role here, I participated in data generation and analysis for several additional 16S and shotgun sequencing microbiome studies including analysis of effect of sweeteners on human gut microbiome, the relationship between mastitis and the microbiome in cows, and shifts in termite gut microbiome in one genus of Australian termites. My experience working on a variety of host organisms gives me important insight into the applied and basic research possibilities for microbial research.
 
 
-{% include base_path %}
-{% for post in site.pages %}
-{% include archive-single.html %}
-{% endfor %}
