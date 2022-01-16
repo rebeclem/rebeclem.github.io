@@ -4,172 +4,28 @@ layout: archive
 permalink: /research_projects/
 ---
 
-A variety of common markup showing how the theme styles them.
+My research spans three main themes around insect evolution and ecology:
+* Changes in insect communities across environmental gradients
+* Insect evolution and trait variation
+* Relationships between organisms, their microbiomes, and the environment
 
-# Header one
+In all of my research projects, I strive to take advantage of computational tools, publicly available data, and the latest molecular technologies to learn about the amazing diversity of the Earth.  
+![mantis](/images/mantis.jpg)
+**Changes in insect communities across environmental gradients**  
+After an early collegiate experience participating in and curating flies from the Great Basin National Park Diptera BioBlitz, I began thinking critically about fly diversity and asking hypothesis-driven ecological and biogeographic questions. I received a university-funded grant to study the diversity of flies in Mongolia. There, commercial grazing is rapidly replacing traditional nomadic browsing. To understand how these environmental changes affect fly biodiversity, I compared fly diversity (>17,000 flies from 132 sites) across a livestock grazing gradient. My analysis suggests that in heavily grazed areas, fly family diversity is lower than in lightly grazed areas. This disparity pointed to several families of flies that act as grazing disturbance bioindicators and contributed to a general understanding of fly diversity in an area where conservation is critical 1. From there, I began asking how other insects might shift their diversity across ecological gradients.  
 
-## Header two
+![termite_mound](/images/Becca_termite.jpg)
 
-### Header three
+In the tropics, termites play an important role in decomposition—breaking down complex compounds like lignocellulose from decaying wood, grass, litter and soil, and modifying resource availability for many other organisms. However, very little is known about the relative effect of termites compared to fungi and microbes in decomposition. Due to a range of biogeographical and environmental factors, Australian termite communities assemble differently than those in other tropical regions. In most tropical regions, termite species richness and abundance is greatest in lowland rainforests, and decreases with decreasing rainfall. However, Australia’s rainforests are home to very few termites, indicating that precipitation may be playing a different role. I conducted termite surveys of mound abundance and dead wood occupancy across a rainfall gradient in North Queensland, Australia, and found that termite abundance and activity is greatest in savanna sites, and decreases in sites with increased rainfall. Our recent publication 2 details the changes in termite communities across a rainfall gradient and explores potential causes and consequences of the Australian termite diversity anomaly, the focus of my dissertation.  
+	Outside my dissertation work, I continue to explore how environmental variables affect invertebrate communities through an internship with NCASC. I contacted a team led by Shawn Carter (USGS) that was developing a Biodiversity Impacts Framework in an effort to understand how organism ranges respond to changes in temperature and precipitation. With their mentorship, I developed a project using this metaanalysis and outside trait information to discern the role that dispersal ability plays on range shifts of invertebrates. At the conclusion of this internship, I will produce a science communication product that shows my findings and how land managers can use this database to inform decisions.
+![Tumulitermes](/images/SC79_Tumulitermes2.jpg)
+**Insect evolution and trait variation**  
+Historical biogeography is also partly responsible for the patterns shown by the Australian termite diversity anomaly. Termites live most of their lives wingless within a short distance from their nest. This poor dispersal results in high levels of endemism in termites, especially in Australia where 64% of genera are endemic to the continent. Termites that were not present in Australia before its breakoff from Pangaea likely floated across the ocean on pieces of dead wood. Traits such as body size, feeding group (wood, grass, litter or soil), and mound building likely affected termite species’ ability to adapt to Australia’s climate. I am combining a phylogenetic tree with termite traits. I will use this tree to understand 1) how many times did termites colonize Australia, 2) which termite traits are most prominent in Australian termites compared to others, and 3) how transitions in termite size or feeding group affect evolution of the group. Answering these questions will give insight into how termite evolution has influenced the Australian termite diversity anomaly.
 
-#### Header four
+**Relationships between organisms, their microbiomes, and the environment**    
+One reason that termites are able to feed on so many substrates is because of the diverse community of microbes living in their guts that help them break down complex compounds. Termites in a mound share their gut microbiomes, which are known to be shaped by diet and vertical transmission, but the role that habitat plays in shaping microbial communities in termite guts is unclear. I collected the microbes from four species of termites at sites along a rainfall gradient and sequenced them using 16S amplicon sequencing. I examined the scale at which microbiomes change across spatial distance, habitat, feeding guild, and species. Results from this analysis show that measures of microbial diversity in termite guts differ significantly across habitat types but are not correlated with rainfall.  
+	The computational skills I used for microbiome analysis come from my experiences in GW’s Computational Biology Institute under the direction of Keith Crandall (GWU). In my role here, I participated in data generation and analysis for several additional 16S and shotgun sequencing microbiome studies including analysis of effect of sweeteners on human gut microbiome, the relationship between mastitis and the microbiome in cows, and shifts in termite gut microbiome in one genus of Australian termites. My experience working on a variety of host organisms gives me important insight into the applied and basic research possibilities for microbial research.
 
-##### Header five
-
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
-
-> Quotes are cool.
-
-## Tables
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
 
 {% include base_path %}
 {% for post in site.pages %}
