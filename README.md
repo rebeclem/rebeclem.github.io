@@ -17,6 +17,8 @@ To update blog: https://seeyalaterseeya.blogspot.com/
 
 To do later:
 * Make the pictures smaller so that they load faster
+* Update CV page
+* Make another blogpost
 
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
