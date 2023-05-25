@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rebecca Clement, PhD"
+title                    : "Rebecca Clement"
 title_separator          : "-"
 name                     : &name "Rebecca Clement"
 description              : &description "SCINET Postdoctoral Fellow, ORISE, USDA-ARS"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Rebecca Clement, PhD"
   avatar           : "becca9crop_small.jpeg"
-  bio              : "SCINET ORISE Postdoctoral Fellow, USDA-ARS"
-  location         : "Smithsonian Museum of Natural History, Washington, DC"
+  bio              : "SCINET ORISE Postdoctoral Fellow, USDA-ARS, Smithsonian Museum of Natural History"
+  location         : "Washington, DC"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_np5OXQAAAAJ&hl=en&oi=sra"
