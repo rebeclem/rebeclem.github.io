@@ -2,7 +2,7 @@
 title: "Evolution and Biogeographic History of Rubyspot Damselflies
 (Hetaerininae: Calopterygidae: Odonata)."
 collection: publications
-permalink: /publication/Australian_termite
+permalink: /publication/2022_Hetaerina
 excerpt: 'Rubyspot damselflies are beautiful Calopterygids that often have red spots on their wings. Led by the brilliant Sam Standring with some top-notch collaborators, we built a phylogeny of this genus and its sister group Mnesarete. We found that the rubyspot was lost four times and that the ancestors of this group were forest-dwellers.'
 date: 2022-09-14
 venue: 'Diversity'
