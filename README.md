@@ -4,7 +4,7 @@ To edit [about me](\_pages/about.md) info.
 
 To edit [Research projects](\_pages/research_projects.md). 
 
-To edit [Publications](\_publications/).
+To edit [Publications](\_publications/). Upload PDFs to [here](/files/)
 
 To edit [Outreach](\_pages/outreach.md).
 
