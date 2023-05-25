@@ -10,6 +10,8 @@ To edit [Outreach](\_pages/outreach.md).
 
 To edit [CV](\_pages/cv.md).
 
+Add [images](images/)
+
 To update blog: https://seeyalaterseeya.blogspot.com/
 
 
