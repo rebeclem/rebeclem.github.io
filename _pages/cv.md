@@ -18,14 +18,26 @@ Education
 
 Research experience
 ======
-* Aug 2017-present--George Washington University Computational Biology Institute  
+* 2024-present--USDA-APHIS-PPQ-S&T Pest Identification Technology Laboratory, Fort Collins, CO 
+Biological Scientist  
+  * Led a team of scientists in efforts to prepare for and address important agricultural pests
+ 
+* 2022-2024--USDA-ARS SCINET Scientific Computing Fellow, Smithsonian National Museum of Natural History 
+Postdoctoral Fellow, Dr. Christopher Owen  
+  * Demonstrated scientific leadership by spearheading a working group for biological invasions to use big data to improve existing methods of insect control, pest management and likelihood of invasion
+  * Performed qualitative and quantitative comparative genomic analyses to determine the pervasiveness of hybridization and introgression in insect pests of agriculture and the driving mechanisms
+  * Tested and validated DNA sequences from aphids to determine identity of samples and discover presence of known parasitoids, viruses, and bacteria
+  * Incorporated a wide range of disciplines (entomology, molecular and population genetics, evolution, biological control, ecology) for project and pipeline development
+  * Mentored PhD students and other PostDocs in molecular and computational biology
+
+* Aug 2017-2022--George Washington University Computational Biology Institute  
 Research Assistant, Dr. Keith Crandall  
   * Directed and performed next generation sequencing molecular lab work for GW genomics core as lab manager and assistant
   * Created and maintained high-performance computing tutorial website for incoming bioinformatics graduate students and undergraduates using GitHub pages
   * Analyzed NGS human microbiome data for low-calorie sweetener study using whole metagenomic shotgun sequencing
   * Supervised and directed graduate and undergraduate students in phylogenetic analyses for coronavirus and cray sh projects
 
-* Aug 2017-present--University of Miami  
+* Aug 2017-2022--George Washington University Department of Biological Sciences 
 Research Assistant, Dr. Amy Zanne 
   - Assisted in field work set-up of decomposition project in Queensland, Australia for NSF-funded Wood/Termite/Fungus project
   - Directed undergraduate R and diversity, equity and inclusion discussion group
@@ -60,6 +72,7 @@ Research Fellow, Dr. Torsten Dikow
   
 Teaching Experience
 ======
+* 2023-present, PUBH 6894 Research Analytics, Professorial lecturer, George Washington University
 * Fall 2021, PUBH 6860 and PUBH 3201–Principles of Bioinformatics Instructor’s Assistant, George Washington University
 * Spring 2019, BISC1126–Introduction to Organisms lab Undergraduate instructor, George Washington University
 * BISC1116- Introductory Biology: Biology of Organisms Instructor’s Assistant, George Washington University
