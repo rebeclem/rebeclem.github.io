@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * PhD Biological Sciences, Computational Biology Institute, George Washington University, Washington DC  
-  Expected graduation: May 2022,
-  Advisors: Dr. Keith Crandall, Dr. Amy Zanne
+  2022, Advisors: Dr. Keith Crandall, Dr. Amy Zanne
 * B.S. Biology, Magna Cum Laude, Brigham Young University, Provo, UT  
   2017, Major Professors: Dr. Seth Bybee, Dr. C. Riley Nelson
 
