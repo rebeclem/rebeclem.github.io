@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rebecca Clement"
 title_separator          : "-"
 name                     : &name "Rebecca Clement"
-description              : &description "SCINET Postdoctoral Fellow, ORISE, USDA-ARS"
+description              : &description "Biological Scientist, USDA-APHIS-PPQ-S&T Pest Identification Technology Laboratory"
 url                      : https://rebeclem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rebeclem/rebeclem.github.io"
@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Rebecca Clement, PhD"
   avatar           : "becca9crop_small.jpeg"
-  bio              : "SCINET ORISE Postdoctoral Fellow, USDA-ARS, Smithsonian Museum of Natural History"
-  location         : "Washington, DC"
+  bio              : "Biological Scientist, USDA-APHIS-PPQ-S&T Pest Identification Technology Laboratory"
+  location         : "Fort Collins, CO"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_np5OXQAAAAJ&hl=en&oi=sra"
@@ -100,7 +100,7 @@ author:
   github           : "rebeclem"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "@DrBeccasBugs"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "rebecca-clement-2b7ba5b2/"
